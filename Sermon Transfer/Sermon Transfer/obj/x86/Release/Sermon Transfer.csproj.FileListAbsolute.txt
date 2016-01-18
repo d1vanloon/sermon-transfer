@@ -1,0 +1,33 @@
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe.config
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe.manifest
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.application
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.pdb
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon_Transfer.Properties.Resources.resources
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.TrustInfo.xml
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.exe.manifest
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.application
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.exe
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.pdb
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe.config
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.exe
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.pdb
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe.manifest
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.application
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.pdb
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.csprojResolveAssemblyReference.cache
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon_Transfer.Properties.Resources.resources
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.csproj.GenerateResource.Cache
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.TrustInfo.xml
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.exe.manifest
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.application
+F:\Users\David\OneDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe.config
+F:\Users\David\OneDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.exe
+F:\Users\David\OneDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.pdb
+C:\Users\david_000\Desktop\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Release\Sermon Transfer.exe.config
+C:\Users\david_000\Desktop\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.exe
+C:\Users\david_000\Desktop\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Release\Sermon Transfer.pdb

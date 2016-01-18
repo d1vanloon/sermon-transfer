@@ -1,0 +1,17 @@
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Debug\Sermon Transfer.exe.config
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Debug\Sermon Transfer.exe
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Debug\Sermon Transfer.pdb
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.exe
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.pdb
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Debug\Sermon Transfer.exe.manifest
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Debug\Sermon Transfer.application
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.TrustInfo.xml
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.exe.manifest
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.application
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon_Transfer.Properties.Resources.resources
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\bin\Debug\Sermon Transfer.exe.config
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.exe
+C:\Users\David\SkyDrive\Documents\Programming\Windows Apps\Sermon Transfer\Sermon Transfer\Sermon Transfer\obj\x86\Debug\Sermon Transfer.pdb

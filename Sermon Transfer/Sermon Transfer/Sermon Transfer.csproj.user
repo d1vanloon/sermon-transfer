@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\|ftp://ftp.intelligent-design-software.com/IDS/Applications/Sermon%2520Transfer/Install/|ftp://ftp.intelligent-design-software.com/IDS/Applications/Sermon Transfer/Install/|ftp://ftp.intelligent-design-software.com/IDS/Applications/Install/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.intelligent-design-software.com/applications/sermon%2520transfer/install/</InstallUrlHistory>
+    <SupportUrlHistory>http://www.intelligent-design-software.com/</SupportUrlHistory>
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <StartArguments>
+    </StartArguments>
+  </PropertyGroup>
+</Project>

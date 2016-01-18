@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.1" name="Sermon Transfer.exe" publicKeyToken="3f835fe6ef347150" language="en-US" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sermon Transfer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Sermon Transfer.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sermon Transfer.exe" size="34304">
+      <assemblyIdentity name="Sermon Transfer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>hfzBckGkhByWYlYasUgZ5x4ZwS8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Icon.ico" size="24038">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZTaMnFYRhR58yz20jX4Pcw5JRXE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sermon Transfer.exe.config" size="926">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sU2hLR9G+rHnw8YziT7Zp/SGGkM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Davids-PC\David" issuerKeyHash="1a2564cc8a39e1cad52558364a94772504829b25" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>DMBqbwPoE0qTRdzoQtzLyFqNKm8=</DigestValue></Reference></SignedInfo><SignatureValue>IVQWZqXVsRmwL3TPa7oXvNt8icdha1uRKjNJQxGn2ZuU60j3jhA/zU3yuxx17Jzx2WymuODwC/Ni7xZsEiNQkN0tIHokOrW0pPVGGhJuykd/ud0AkAPqJcgk5H6K/op155bsM+h3agIdbcV2lUHBU3mTprjr08zUTJQBYc6rRss=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>p2SAGA8vldYYuMOUnuL1PL8Lliv0JscAX7BsdUbmFw3ewPE7/y+ITdJv0WN90I5j9tlPOsdpE2MFKEvKbaD1UxKLbHGHMqoCpSxC3XPN+PN3Kdz0U910FMJdzg/a6GO72654lzjzkiFOfaSbxvaMF7hVeVyqSTyYqrU9GXZClps=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6f2a8d5ac8cbdc42e8dc45934a13e8036f6ac00c" Description="" Url=""><as:assemblyIdentity version="1.0.0.1" name="Sermon Transfer.exe" publicKeyToken="3f835fe6ef347150" language="en-US" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Davids-PC\David</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>e7odbWvORaAC83zdNr4RbDKAaHY=</DigestValue></Reference></SignedInfo><SignatureValue>Rv7WLxPA4iPniC/PX5DFPYplQXOuWrm1rtMmGHbNfVRFSsIBrfJ7gd3Vt6qNR6v2fFexHPa9jq0NHbccFYV6/Tlv3AHWR9XfHcdKvzZshTOSENaweIVGpIwk5cT85PAFZlhLSyKw3R+TwSKoyqN2UzbA9O+ICDgdJVjhyWauSSc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>p2SAGA8vldYYuMOUnuL1PL8Lliv0JscAX7BsdUbmFw3ewPE7/y+ITdJv0WN90I5j9tlPOsdpE2MFKEvKbaD1UxKLbHGHMqoCpSxC3XPN+PN3Kdz0U910FMJdzg/a6GO72654lzjzkiFOfaSbxvaMF7hVeVyqSTyYqrU9GXZClps=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQaIWAextqOK5KxuhcaANOyzANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4ARABhAHYAaQBkAHMALQBQAEMAXABEAGEAdgBpAGQwHhcNMTIwMTMxMDUyNDIzWhcNMTMwMTMwMTEyNDIzWjApMScwJQYDVQQDHh4ARABhAHYAaQBkAHMALQBQAEMAXABEAGEAdgBpAGQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKdkgBgPL5XWGLjDlJ7i9Ty/C5Yr9CbHAF+wbHVG5hcN3sDxO/8viE3Sb9FjfdCOY/bZTzrHaRNjBShLym2g9VMSi2xxhzKqAqUsQt1zzfjzdync9FPddBTCXc4P2uhju9uueJc485IhTn2km8b2jBe4VXlcqkk8mKq1PRl2QpabAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAlW5nMjVpAxQugLs3Txm2u288WHaWp2qTQK56tC8w7lBUIqPXoiSXz4bEKdRMXxsGjo5lGdE/4aNvOu0v0yriOMlPSlhDi/3T9mClfj4VglXnIkc2hqbny7hFCl7e27HQYKg8Tda68yhOMnc2iZLFVL5a2ZgKw8xs0C1R4Ox+ycs=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
